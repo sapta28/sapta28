@@ -81,14 +81,14 @@ I am a passionate **Software Engineer**, **Mobile Application Developer**, and *
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=sapta28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sapta's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapta28&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sapta28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sapta's GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sapta28&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapta28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sapta28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
