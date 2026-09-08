@@ -81,19 +81,6 @@ I am a passionate **Software Engineer**, **Mobile Application Developer**, and *
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapta28&theme=tokyonight" alt="GitHub Profile Details" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sapta28&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sapta28&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=sapta28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
