@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://sapta28.github.io/">🌐 <b>Official Portfolio Website</b></a> •
   <a href="mailto:saptaadzanipurnama@gmail.com">✉️ <b>Email Me</b></a> •
-  <a href="https://linkedin.com/in/sapta-adzani-purnama">💼 <b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/saptaadzanipurnama">💼 <b>LinkedIn</b></a>
 </p>
 
 ---
@@ -92,7 +92,7 @@ I am a passionate **Software Engineer**, **Mobile Application Developer**, and *
   <a href="mailto:saptaadzanipurnama@gmail.com">
     <img src="https://img.shields.io/badge/Email-saptaadzanipurnama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sapta-adzani-purnama">
+  <a href="https://www.linkedin.com/in/saptaadzanipurnama">
     <img src="https://img.shields.io/badge/LinkedIn-Sapta_Adzani_Purnama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
