@@ -99,7 +99,3 @@ I am a passionate **Software Engineer**, **Mobile Application Developer**, and *
     <img src="https://img.shields.io/badge/LinkedIn-Sapta_Adzani_Purnama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<p align="center">
-  <i>Designed with ❤️ by Sapta Adzani Purnama</i>
-</p>
