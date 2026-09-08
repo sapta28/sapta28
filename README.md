@@ -17,7 +17,7 @@
 I am a passionate **Software Engineer**, **Mobile Application Developer**, and **IoT Specialist** from **PENS (Politeknik Elektronika Negeri Surabaya)**. I love building high-performance mobile apps, robust backend services, and smart IoT integration systems that solve real-world problems.
 
 - 🚀 **Currently Focusing On**: Flutter Mobile Apps, Laravel/Next.js Fullstack Systems & IoT Architectures.
-- 🎓 **Education**: Telecommunications Engineering, Politeknik Elektronika Negeri Surabaya (PENS).
+- 🎓 **Education**: Informatics Engineering, Politeknik Elektronika Negeri Surabaya (PENS).
 - 💡 **Interests**: Mobile Development, System Integration, Smart City IoT, Clean Code Architecture.
 - 🌐 **Portfolio**: Check out my work live at [sapta28.github.io](https://sapta28.github.io/)
 
