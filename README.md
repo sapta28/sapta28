@@ -71,10 +71,10 @@ I am a passionate **Software Engineer**, **Mobile Application Developer**, and *
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🌊 **[Flood Viser](https://sapta28.github.io/)** | Remote Pump Control & Monitoring System for real-time flood management | `IoT` `ESP32` `Laravel` `MQTT` |
-| 👶 **[Sparkling Kids](https://sapta28.github.io/)** | Kids Activity Management & Secure Remote Control Mobile Platform | `Flutter` `Dart` `Laravel API` |
-| ☝️ **[Fingerprint Kiosk](https://sapta28.github.io/)** | IoT-Based Biometric Fingerprint Attendance Kiosk System | `C++` `IoT` `Node.js` |
-| 🗺️ **[GIS Billboard App](https://sapta28.github.io/)** | Geographic Information System for Billboard Booking & Location Analytics | `Fullstack` `GIS` `MySQL` |
+| 🌊 **[Flood Viser](https://sapta28.github.io/#floodviser)** | Remote Pump Control & Monitoring System for real-time flood management | `Flutter` `IoT` `Laravel` `MQTT` |
+| 👶 **[Sparkling Kids](https://sapta28.github.io/#sparkling)** | Kids Activity Management & Secure Remote Control Mobile Platform | `Flutter` `Dart` `Laravel API` |
+| ☝️ **[Fingerprint Kiosk](https://sapta28.github.io/#kiosk)** | IoT-Based Biometric Fingerprint Attendance Kiosk System | `C++` `IoT` `Node.js` |
+| 🗺️ **[GIS Billboard App](https://sapta28.github.io/#gis)** | Geographic Information System for Billboard Booking & Location Analytics | `Fullstack` `GIS` `MySQL` |
 
 ---
 
