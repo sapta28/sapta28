@@ -101,3 +101,5 @@ I am a passionate **Software Engineer**, **Mobile Application Developer**, and *
 </p>
 
 <!-- PR Shark 1 -->
+
+<!-- PR Shark Clean -->
