@@ -81,7 +81,7 @@ I am a passionate **Software Engineer**, **Mobile Application Developer**, and *
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sapta28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sapta28&theme=tokyonight&hide_border=true&timezone=Asia/Jakarta" alt="GitHub Streak" />
 </div>
 
 ---
